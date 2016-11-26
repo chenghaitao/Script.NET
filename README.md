@@ -28,9 +28,9 @@ Script.NET QQ群：325880743
 
 Script.net 4.0.1 修改：
 
-1、加入编译和运行需要用到Xtreme Toolkit和cjstyles皮肤
-2、默认使用Visual Studio 2010版皮肤
-3、取消默认展示启动画面
+- 加入编译和运行需要用到Xtreme Toolkit和cjstyles皮肤
+- 默认使用Visual Studio 2010版皮肤
+- 取消默认展示启动画面
 
 备注：使用VS2013编译通过
 
