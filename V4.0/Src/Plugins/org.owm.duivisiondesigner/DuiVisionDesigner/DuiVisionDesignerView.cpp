@@ -739,6 +739,10 @@ BOOL CDuiVisionDesignerView::PreTranslateMessage(MSG* pMsg)
 {
 	// TODO: 在此添加专用代码和/或调用基类
 
+<<<<<<< HEAD
+	return __super::PreTranslateMessage(pMsg);
+}
+=======
 	if ( pMsg->message == WM_MOUSEMOVE ||
 		 pMsg->message == WM_LBUTTONDOWN ||
 		 pMsg->message == WM_LBUTTONUP )
@@ -981,3 +985,4 @@ void CDuiVisionDesignerView::OnUpdateDuiControlCmd(CCmdUI* pCmdUI)
 {
 	pCmdUI->Enable(TRUE);
 }
+>>>>>>> 0229a0fe52a55c797e37b00865bf980195b8146a
