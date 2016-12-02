@@ -26,17 +26,14 @@ Script.NET QQ群：325880743
 微信公众号：blueantstudio
 
 
-Script.net 4.0.1 修改：
+Script.net 4.0.2 修改：
 
 - 加入编译和运行需要用到Xtreme Toolkit和cjstyles皮肤
 - 默认使用Visual Studio 2010版皮肤
 - 取消默认展示启动画面
+- python 解释器改为内置
 
 备注：使用VS2013编译通过
-
-遗留问题：
-python解释器无法使用。
-
 
 
 ### License
